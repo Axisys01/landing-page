@@ -29,6 +29,11 @@ ul {
     color: #E5E7EB
 }
 
+a {
+    text-decoration: none;
+    color: #E5E7EB
+}
+
 .hero .logo {
     font-size: 52px;
     font-weight: 800;
